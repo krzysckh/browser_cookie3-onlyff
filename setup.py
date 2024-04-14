@@ -12,7 +12,6 @@ setup(
     url='https://github.com/borisbabic/browser_cookie3',
     install_requires=[
         'lz4',
-        'pycryptodomex',
         'dbus-python; python_version < "3.7" and ("bsd" in sys_platform or sys_platform == "linux")',
         'jeepney; python_version >= "3.7" and ("bsd" in sys_platform or sys_platform == "linux")'
     ],

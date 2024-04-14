@@ -1,3 +1,7 @@
+this fork removes the pycryptodomex dependency and chromium support.
+
+
+
 [![PyPi Downloads][PyPi-downloads]][PyPi-url]
 [![PyPi Version][PyPi-version]][PyPi-url]
 [![License][License-shield]][License-url]
